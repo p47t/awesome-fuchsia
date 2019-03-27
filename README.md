@@ -35,7 +35,7 @@ It is created by Google and completely [open source](https://fuchsia.googlesourc
 - [Fuchsia on AMD Chromebooks](https://9to5google.com/2019/03/01/google-fuchsia-amd-chromebooks/) *[03/01/19]* - Google is working on bringing Fuchsia OS to AMD-based Chromebooks
 - [Android app support](https://9to5google.com/2019/01/02/android-runtime-app-support-fuchsia/) *[01/02/19]* - Fuchsia OS confirmed to have Android app support via Android Runtime
 - [Android Emulator supports Fuchsia](https://9to5google.com/2018/12/05/android-emulator-fuchsia-zircon/) *[12/05/19]* - The official Android Emulator is picking up support for Fuchsia’s Zircon kernel
-- [Huawei testing Fuchsia](https://www.xda-developers.com/huawei-testing-fuchsia-os-kirin-970-honor-play/) *[11/23/29]* - Huawei begins testing Fuchsia OS on the Honor Play
+- [Huawei testing Fuchsia](https://www.xda-developers.com/huawei-testing-fuchsia-os-kirin-970-honor-play/) *[11/23/18]* - Huawei begins testing Fuchsia OS on the Honor Play
 - [Fuchsia tested on Home Hub](https://arstechnica.com/gadgets/2018/10/google-home-hub-under-the-hood-its-nothing-like-other-google-smart-displays/) *[10/10/18]* - Google Home hub is reported to be a Fuchsia OS Test Device
 
 
